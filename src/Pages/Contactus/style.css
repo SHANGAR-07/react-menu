@@ -1,0 +1,10 @@
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.contact-image{
+    background-image: url(https://cdn.stocksnap.io/img-thumbs/960w/coastal-landscape_CJ1CQJ4F0G.jpg);
+    height: 100%;
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
